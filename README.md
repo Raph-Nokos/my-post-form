@@ -1,3 +1,7 @@
+# Information
+
+This project is a start of how to, using controlled fields in a form and fetch, send our information back to the server through an API, through a React app!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
